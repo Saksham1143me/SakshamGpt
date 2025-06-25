@@ -34,6 +34,10 @@ const imagekit=new ImageKit({
 // app.get('*', (req, res) => {
 //     res.sendFile(path.join(mydirname,"../client",'index.html'))
 //   });
+app.get('/', (req, res) => {
+  res.send('Saksham GPT API is live 🚀');
+});
+
 app.get('/api/upload',(req,res)=>{
     const result=imagekit.getAuthenticationParameters()
     res.send(result)
