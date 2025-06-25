@@ -20,9 +20,7 @@ SakshamGPT is an intelligent full-stack chat application powered by AI. It enabl
 
 ## 📸 Screenshots
 
-| Sign In Page | Dashboard |
-| ------------ | --------- |
-|              |           |
+![image](https://github.com/user-attachments/assets/ce43b551-60d3-45ce-8c8d-b08e1643f552)
 
 ---
 
@@ -99,21 +97,22 @@ VITE_IMAGE_KIT_PRIVATE_KEY=your_private_key
 ```env
 VITE_API_URL=http://localhost:3000
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_key
+VITE_CLERK_SECRET_KEY=your_clerk_key
 ```
 
 ---
 
 ## 📈 Status
 
-✅ Deployed: [https://saksham-gpt.vercel.app](https://saksham-gpt.vercel.app)\
-🔧 Serverless backend: [https://saksham-gpt-api.vercel.app/api/upload](https://saksham-gpt-api.vercel.app/api/upload)
+✅ Deployed: [https://saksham-gpt.vercel.app](https://saksham-gpt.vercel.app/)
+🔧 Serverless backend: [https://saksham-gpt-api.vercel.app/api/upload](https://saksham-gpt-server.vercel.app/)
 
 ---
 
 ## 🙇‍♂️ Author
 
 **Saksham Goyal**\
-[LinkedIn](https://www.linkedin.com/in/saksham-goyal/) | [GitHub](https://github.com/Saksham1143me)
+[LinkedIn](https://linkedin.com/in/saksham-g-0b644a2a9) | [GitHub](https://github.com/Saksham1143me)
 
 ---
 
